@@ -1,7 +1,68 @@
 name: aws-lamda
-locks: {}
-events: []
-latest_deploy: {}
+locks:
+  modification_lock:
+    last_modification_date: '2025-03-10T07:34:39Z'
+    is_locked: false
+    initiator: chintamani_chourase
+events:
+- operation: deploy
+  initiator: chintamani_chourase
+  bundle_name: aws-lamda_250310.130154
+  deploy_name: aws-lamda
+  time_start: '2025-03-10T13:04:20Z'
+  time_end: '2025-03-10T13:04:39Z'
+  duration_sec: 18.84
+  status: failed
+  rollback_on_error: false
+- operation: build
+  initiator: chintamani_chourase
+  bundle_name: aws-lamda_250310.130154
+  time_start: '2025-03-10T13:01:54Z'
+  time_end: '2025-03-10T13:01:56Z'
+  duration_sec: 2.448
+  status: succeeded
+- operation: upload
+  initiator: chintamani_chourase
+  bundle_name: aws-lamda_250310.130154
+  time_start: '2025-03-10T13:01:55Z'
+  time_end: '2025-03-10T13:01:56Z'
+  duration_sec: 1.005
+  status: succeeded
+- operation: package_meta
+  initiator: chintamani_chourase
+  bundle_name: aws-lamda_250310.130154
+  time_start: '2025-03-10T13:01:55Z'
+  time_end: '2025-03-10T13:01:55Z'
+  duration_sec: 0.014
+  status: succeeded
+- operation: assemble
+  initiator: chintamani_chourase
+  bundle_name: aws-lamda_250310.130154
+  time_start: '2025-03-10T13:01:55Z'
+  time_end: '2025-03-10T13:01:55Z'
+  duration_sec: 0.008
+  status: succeeded
+- operation: assemble_node
+  initiator: chintamani_chourase
+  bundle_name: aws-lamda_250310.130154
+  time_start: '2025-03-10T13:01:55Z'
+  time_end: '2025-03-10T13:01:55Z'
+  duration_sec: 0.003
+  status: succeeded
+- operation: test
+  initiator: chintamani_chourase
+  time_start: '2025-03-10T13:01:55Z'
+  time_end: '2025-03-10T13:01:55Z'
+  duration_sec: 0.001
+  status: succeeded
+latest_deploy:
+  initiator: chintamani_chourase
+  bundle_name: aws-lamda_250310.130154
+  deploy_name: aws-lamda
+  time_start: '2025-03-10T13:04:20Z'
+  time_end: '2025-03-10T13:04:39Z'
+  duration_sec: 18.84
+  is_succeeded: false
 build_projects_mapping:
   nodejs: app
 lambdas:
