@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f711710f-448d-47d0-a050-92783f3f39a5" name="Changes" comment="" />
+    <list default="true" id="f711710f-448d-47d0-a050-92783f3f39a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.syndicate" beforeDir="false" afterPath="$PROJECT_DIR$/.syndicate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.syndicate-config-dev/syndicate_aliases.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.syndicate-config-dev/syndicate_aliases.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,8 +47,9 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "new-branch",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/chintamani_chourase/IdeaProjects/aws-lamda"
+    "last_opened_file_path": "C:/Users/chintamani_chourase/IdeaProjects/Task04"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
