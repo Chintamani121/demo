@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f711710f-448d-47d0-a050-92783f3f39a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-03-2025_11_40_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-03-2025_11_40_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-03-2025_11_40__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task02/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task02/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task02/app/lambdas/hello_world/deployment_resources.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task02/app/lambdas/hello_world/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task02/app/lambdas/hello_world/lambda_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task02/app/lambdas/hello_world/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task02/app/lambdas/hello_world/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task02/deployment_resources.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task03/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task03/app/lambdas/hello_world/deployment_resources.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task03/app/lambdas/hello_world/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task03/app/lambdas/hello_world/lambda_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task03/app/lambdas/hello_world/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task03/app/lambdas/hello_world/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task03/deployment_resources.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate" beforeDir="false" afterPath="$PROJECT_DIR$/.syndicate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-dev/logs/2025-03-10-syndicate.log" beforeDir="false" afterPath="$PROJECT_DIR$/.syndicate-config-dev/logs/2025-03-10-syndicate.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task01/app/lambdas/hello_world/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/task01/app/lambdas/hello_world/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="f711710f-448d-47d0-a050-92783f3f39a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +30,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/chintamani_chourase/IdeaProjects/aws-lamda"
   },
