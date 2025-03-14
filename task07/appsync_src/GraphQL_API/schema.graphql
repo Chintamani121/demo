@@ -1,35 +1,14 @@
-scalar AWSJSON
-
-schema {
-	query: Query
-	mutation: Mutation
+type Mutation {
+  createEvent(userId: Int!, payLoad: AWSJSON!): Event
 }
 
 type Query {
-	getEvent(id: ID!): Event
-}
-
-type Mutation {
-	createEvent(userId: Int!, payLoad: AWSJSON!): EventCreationResponse
-}
-
-type EventCreationResponse {
-	id: ID!
-	createdAt: String!
+  getEvent(id: ID!): Event
 }
 
 type Event {
-	id: ID!
-	userId: Int!
-	createdAt: String!
-	payLoad: Payload
-}
-
-type Payload {
-	meta: Meta
-}
-
-type Meta {
-	key1: Int
-	key2: String
+  id: ID!
+  userId: Int!
+  createdAt: String!
+  payLoad: AWSJSON!
 }
