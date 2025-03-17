@@ -229,7 +229,6 @@ async function handleGetTableById(event) {
   }
 }
 
-// View Reservation
 async function handleGetReservations(event) {
   const username = getUsernameFromToken(event);
   if (!username) {
@@ -259,7 +258,6 @@ async function handleGetReservations(event) {
   });
 }
 
-//Create Reservation
 async function handleCreateReservation(event) {
   try {
     const username = getUsernameFromToken(event);
